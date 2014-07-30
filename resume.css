@@ -18,7 +18,7 @@ html { background: #00ffaa; }
 .msg a:hover { background: #266400; }
 
 /* //-- yui-grids style overrides -- */
-body { font-family: Georgia; color: #444; }
+body { font: icon; color: #444; }
 #inner { padding: 0 80px; margin: 0 auto; background: #00ffaa; border: solid #000; border-width: 10px 0 10px 0; }
 .yui-gf { margin-bottom: 2em; padding-bottom: 1em; border-bottom: 1px solid #000; }
 
