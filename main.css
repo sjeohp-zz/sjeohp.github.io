@@ -106,15 +106,15 @@ a#pdf:hover { background: #222; }
 #srt-ttab img.last { margin-top: 20px }
 
 /* --// override to force 1/8th width grids -- */
+
+.yui-gf .yui-u .skills {
+	margin-left: 0;
+}
+
 .yui-gf .yui-u { 
 	width: 50%; 
 	margin-left: 28px;
 	float: left;
-}
-
-.yui-gf .yui-u .skills {
-	margin-left: 0;
-	
 }
 
 .yui-gf div.first { 
