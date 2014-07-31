@@ -27,6 +27,7 @@ body
 { 
 	font: icon; 
 	color: #000000; 
+	height:100%;
 }
 
 #inner 
@@ -117,6 +118,11 @@ a#pdf:hover { background: #222; }
 	width: 50%; 
 	margin-left: 0;
 	float: left;
+}
+
+.yui-gf .yui-ub div.first {
+	font-style:italic;
+	height:105%;
 }
 
 .yui-gf div.first { 
