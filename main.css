@@ -105,7 +105,7 @@ a#pdf:hover { background: #222; }
 	width:12.3%; 
 }
 
-.first {
+div.first {
 	margin-left: 30px;
 	margin-top: 30px;
 }
