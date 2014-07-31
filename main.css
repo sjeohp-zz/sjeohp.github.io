@@ -103,9 +103,13 @@ a#pdf:hover { background: #222; }
 
 .yui-gf div.first { 
 	width:12.3%; 
-}
-
-div.first {
 	margin-left: 30px;
 	margin-top: 30px;
+}
+
+.name-info {
+	width: 50%;
+	margin-top: 30px;
+	margin-left: 30px;
+	float: left;
 }
