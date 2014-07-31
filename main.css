@@ -44,6 +44,10 @@ body
 	border-bottom: 1px solid #723232; 
 }
 
+.link {
+	margin-top: 10px;
+	text-decoration: none;
+}
 
 /* //-- header, body, footer -- */
 #hd { margin: 30px 0 0 0; padding-bottom: 30px; border-bottom: 1px solid #000 }
@@ -58,9 +62,7 @@ body
 /* //-- core typography and style -- */
 #hd h1 { font-size: 48px; letter-spacing: 3px; }
 h2 { font-size: 152% }
-.link {
-	margin-top: 30px;
-}
+
 h3, h4 { font-size: 122%; }
 h1, h2, h3, h4 { color: #333; }
 p { font-size: 100%; line-height: 18px; padding-right: 3em; }
