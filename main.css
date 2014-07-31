@@ -37,6 +37,7 @@ body
 	background: #ffffff; 
 	border: solid #723232; 
 	border-width: 10px 0 10px 0; 
+	height: 100%;
 }
 
 .yui-gf { 
