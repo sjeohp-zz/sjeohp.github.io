@@ -45,8 +45,11 @@ body
 }
 
 .link {
-	margin-top: 10px;
+	margin-top: 30px;
+}
+.link h3 {
 	text-decoration: none;
+	margin-top: 15px;
 }
 
 /* //-- header, body, footer -- */
