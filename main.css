@@ -108,11 +108,12 @@ a#pdf:hover { background: #222; }
 .yui-gf .yui-u { 
 	width: 30%; 
 	float: right;
-	margin-right: 263px;
+	margin-left: 263px;
 }
 
 .yui-gf div.first { 
 	width:12.3%; 
+	margin-left: 0;
 }
 
 .yui-g .yui-gb div.first, .yui-gb div.first, .yui-gc div.first, .yui-gd div.first {
