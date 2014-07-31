@@ -107,10 +107,9 @@ a#pdf:hover { background: #222; }
 	margin-top: 30px;
 }
 
-/*.yui-u {
+.yui-u div.first {
 	width: 50%;
-	margin-top: 30px;
+	margin-top: 60px;
 	margin-left: 30px;
 	float: left;
 }
-*/
