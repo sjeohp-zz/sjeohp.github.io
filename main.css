@@ -104,6 +104,10 @@ a#pdf:hover { background: #222; }
 .yui-gf div.first { 
 	width:12.3%; 
 	margin-left: 30px;
+	margin-top: 30px;
+}
+
+.yui-g .yui-gb div.first, .yui-gb div.first, .yui-gc div.first, .yui-gd div.first {
 	margin-top: 60px;
 }
 
