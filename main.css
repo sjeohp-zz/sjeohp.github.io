@@ -112,8 +112,9 @@ a#pdf:hover { background: #222; }
 	float: left;
 }
 
-.yui-u {
-
+.yui-gf .yui-u .skills {
+	margin-left: 0;
+	
 }
 
 .yui-gf div.first { 
