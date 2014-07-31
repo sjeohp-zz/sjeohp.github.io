@@ -115,15 +115,20 @@ a#pdf:hover { background: #222; }
 
 .yui-gf .yui-ub { 
 	width: 50%; 
-	margin-left: 28px;
+	margin-left: 0;
 	float: left;
 }
 
 .yui-gf div.first { 
-	width:30%; 
+	width: 275px; 
 	margin-left: 0;
 }
 
 .yui-g .yui-gb div.first, .yui-gb div.first, .yui-gc div.first, .yui-gd div.first {
 	margin-top: 30px;
+}
+
+.degree {
+	width: 30px;
+	float:left;
 }
