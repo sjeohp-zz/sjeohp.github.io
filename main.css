@@ -10,7 +10,12 @@
 ---------------------------------------------------------------------------------
 */
 
-html { background: #00ffaa; }
+html 
+{ 
+	background: #005b7e; 
+	width: 100%; 
+	height: 100%; 
+}
 
 .msg { padding: 10px; background: #222; position: relative;  }
 .msg h1 { color: #fff;  }
@@ -18,9 +23,26 @@ html { background: #00ffaa; }
 .msg a:hover { background: #266400; }
 
 /* //-- yui-grids style overrides -- */
-body { font: icon; color: #444; }
-#inner { padding: 0 80px; margin: 0 auto; background: #00ffaa; border: solid #000; border-width: 10px 0 10px 0; }
-.yui-gf { padding-top: 30px; padding-bottom: 30px; border-bottom: 1px solid #000; }
+body 
+{ 
+	font: icon; 
+	color: #000000; 
+}
+
+#inner 
+{ 
+	padding: 0 80px; 
+	margin: 0 auto; 
+	background: #ffffff; 
+	border: solid #723232; 
+	border-width: 10px 0 10px 0; 
+}
+
+.yui-gf { 
+	padding-top: 30px; 
+	padding-bottom: 30px; 
+	border-bottom: 1px solid #723232; 
+}
 
 
 /* //-- header, body, footer -- */
