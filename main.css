@@ -46,6 +46,7 @@ body
 
 .link {
 	margin-top: 30px;
+	width: 373px;
 }
 
 /* //-- header, body, footer -- */
@@ -74,7 +75,7 @@ p.enlarge span { color: #000 }
 .contact-info { margin-top: 10px; }
 .first h2 { 
 	font-style: italic; 
-	margin-left: 90px;
+	/*margin-left: 90px;*/
 }
 .last { border-bottom: 0 }
 
@@ -116,5 +117,4 @@ a#pdf:hover { background: #222; }
 
 .yui-g .yui-gb div.first, .yui-gb div.first, .yui-gc div.first, .yui-gd div.first {
 	margin-top: 30px;
-	width: 374px;
 }
