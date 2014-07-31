@@ -128,7 +128,7 @@ a#pdf:hover { background: #222; }
 	width: 263px; 
 	margin-left: 0;
 	font-style:italic;
-	height:105%;
+	font-size:105%;
 }
 
 .yui-g .yui-gb div.first, .yui-gb div.first, .yui-gc div.first, .yui-gd div.first {
