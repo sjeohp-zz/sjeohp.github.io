@@ -103,6 +103,9 @@ a#pdf:hover { background: #222; }
 
 .yui-gf div.first { 
 	width:12.3%; 
+}
+
+.first {
 	margin-left: 30px;
 	margin-top: 30px;
 }
