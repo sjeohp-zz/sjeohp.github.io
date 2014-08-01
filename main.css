@@ -110,7 +110,7 @@ a#pdf:hover { background: #222; }
 /* --// override to force 1/8th width grids -- */
 
 .yui-gf .yui-ua {
-	width: 50%; 
+	width: 100%; 
 	margin-left: 0;
 	float: left;
 }
