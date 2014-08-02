@@ -145,10 +145,12 @@ a#pdf:hover { background: #222; }
 
 .skill {
 	width: 131.5px;
+	float: left;
 }
 
 .degree {
 	width: 32px;
+	float: left;
 }
 
 .work {
@@ -157,5 +159,6 @@ a#pdf:hover { background: #222; }
 }
 
 .year {
+	width:131.5px;
 	float:right;
 }
