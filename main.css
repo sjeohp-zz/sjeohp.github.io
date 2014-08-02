@@ -159,6 +159,6 @@ a#pdf:hover { background: #222; }
 }
 
 .year {
-	width:131.5px;
+	text-align: right;
 	float:right;
 }
