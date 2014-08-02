@@ -120,6 +120,10 @@ a#pdf:hover { background: #222; }
 	/*margin-top:4px;*/
 }
 
+.year {
+	float:right;
+}
+
 .yui-gf .yui-ua {
 	width: 65%; 
 	margin-left: 0;
