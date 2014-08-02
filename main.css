@@ -150,7 +150,7 @@ a#pdf:hover { background: #222; }
 
 .skill {
 	width: 131.5px;
-	/*float: left;*/
+	float: left;
 }
 
 .degree {
