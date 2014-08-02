@@ -117,7 +117,7 @@ a#pdf:hover { background: #222; }
 /* --// override to force 1/8th width grids -- */
 
 .bio {
-	margin-top:4px;
+	/*margin-top:4px;*/
 }
 
 .yui-gf .yui-ua {
