@@ -129,7 +129,7 @@ a#pdf:hover { background: #222; }
 .yui-gf .yui-ub { 
 	width: 100%; 
 	margin-left: 0;
-	float: left;
+	/*float: left;*/
 }
 
 .yui-gf div.first { 
