@@ -124,6 +124,10 @@ a#pdf:hover { background: #222; }
 	float:right;
 }
 
+.skill .year {
+	float:right;
+}
+
 .yui-gf .yui-ua {
 	width: 65%; 
 	margin-left: 0;
