@@ -81,7 +81,6 @@ p.enlarge { font-size: 122%; padding-right: 6.5em; line-height: 24px; margin-bot
 p.enlarge span { color: #000 }
 .picture{ 
 	margin-top: 10px; 
-	float:left;
 }
 .first h2 { 
 	font-style: italic; 
@@ -120,7 +119,7 @@ a#pdf:hover { background: #222; }
 .yui-gf .yui-ua {
 	width: 65%; 
 	margin-left: 0;
-	float: left;
+	float:left;
 }
 
 .yui-gf .yui-ub { 
