@@ -114,7 +114,6 @@ a#pdf:hover { background: #222; }
 #srt-ttab { margin-bottom: 100px; text-align: center;  }
 #srt-ttab img.last { margin-top: 20px }
 
-/* --// override to force 1/8th width grids -- */
 
 .bio {
 	/*margin-top:4px;*/
@@ -146,12 +145,10 @@ a#pdf:hover { background: #222; }
 
 .skill {
 	width: 131.5px;
-	float: left;
 }
 
 .degree {
 	width: 32px;
-	float: left;
 }
 
 .work {
@@ -160,9 +157,5 @@ a#pdf:hover { background: #222; }
 }
 
 .year {
-	float:right;
-}
-
-.skill .year {
 	float:right;
 }
