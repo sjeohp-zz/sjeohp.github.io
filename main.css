@@ -114,11 +114,6 @@ a#pdf:hover { background: #222; }
 #srt-ttab { margin-bottom: 100px; text-align: center;  }
 #srt-ttab img.last { margin-top: 20px }
 
-
-.bio {
-	/*margin-top:4px;*/
-}
-
 .yui-gf .yui-ua {
 	width: 65%; 
 	margin-left: 0;
@@ -161,4 +156,9 @@ a#pdf:hover { background: #222; }
 .year {
 	text-align: right;
 	float:right;
+}
+
+
+.bio {
+
 }
